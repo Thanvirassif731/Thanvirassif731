@@ -2,7 +2,7 @@
 <body>
 
 <image src="https://github.com/Thanvirassif731/website-attachment-images-and-other-stuffs/blob/main/3f8bc6153428261.632f7857842e3.gif?raw=true">
-- 👋 Hi, I’m @Thanvirassif731 <br>
+- 👋 Hi, I’m Thanvir Assif <br>
 - 👀 I’m interested in learning new skills in IT! <br>
 - 🌱 I’m currently learning AWS cloud computing and Linux.
 <h1> Languages </h1>
