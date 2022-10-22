@@ -3,7 +3,7 @@
 
 <image src="https://github.com/Thanvirassif731/website-attachment-images-and-other-stuffs/blob/main/3f8bc6153428261.632f7857842e3.gif?raw=true">
 - 👋 Hi, I’m Thanvir Assif <br>
-- 👀 I’m interested in learning new skills in IT! <br>
+- 👀 I’m interested to learn new skills in IT! <br>
 - 🌱 I’m currently learning AWS cloud computing and Linux.
 <h1> Languages & Plateform </h1>
 <a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="55" height="40"/> </a> &nbsp;&nbsp;
