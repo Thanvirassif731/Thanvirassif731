@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<image src="[https://github.com/Thanvirassif731/website-attachment-images-and-other-stuffs/blob/main/3f8bc6153428261.632f7857842e3.gif?raw=true](https://camo.githubusercontent.com/cc0c88f02af19ca5b4b5becad9241aebcb908bce399907d36eac42bc598ee48f/68747470733a2f2f6e657874736861726b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30312f3030372e676966)">
+<image src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gifv">
  <h1 align="center"> 👋 Hi, I’m Thanvir Assif </h1> <br>
 <h4 align="center">- 👀 Open to try and learn new ideas and skills! </h4>
 <h4 align="center">- 🌱 I’m currently learning AWS cloud computing and Linux. </h4> <br> <hr>
