@@ -24,6 +24,9 @@
         <a href="https://github.com/Thanvirassif731"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50" height="50"></a>
         <a href="https://www.instagram.com/iamassif275/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="50" height="50"></a>
         <a href="https://twitter.com/iamassif275"><img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" width="50" height="50"></a><br><hr>
+ <p align="center"><b>Checkout my other activities...</b><br>
+  <a href="https://www.freecodecamp.org/iamassif731" target="_blank" rel="noreferrer"><img src="https://d33wubrfki0l68.cloudfront.net/52edd2dfddbec5db22a65dba39951af8fa9bdff6/006f7/img/fcc_primary_large.svg" alt="Freecodecamp" width="200" height="20"></a>
+  <a href="https://www.hackerrank.com/thanvirassif123" target="_blank" rel="noreferrer"><img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="Hackerrank" width="200" height="20"></a></p><br>
 
 
 <!---
