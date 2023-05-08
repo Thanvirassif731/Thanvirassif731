@@ -5,8 +5,9 @@
  <h1 align="center"> 👋 Hi, I’m Thanvir Assif </h1> <br>
 <h4 align="center">- 👀 Open to try and learn new ideas and skills! </h4>
 <h4 align="center">- 🌱 I’m currently learning AWS cloud computing, Web Development and DevOps.</h4>
- <h4 align="center">- 💞️ I’m looking to collaborate on internships to develop my skills.</h4>
-<h4 align="center">- 📫 How to reach me 📧 <b>thanvirassif123@gmail.com</b></h4><hr>
+<h4 align="center">- 🤖 Interested in Machine Learning and Artificial Intelligence.</h4>
+<h4 align="center">- 💞️ I’m looking to collaborate on internships to develop my skills.</h4>
+<h4 align="center">- 📫 How to reach me 📧 <b>thanvirassif731@gmail.com</b></h4><hr>
 <h2 align="center"> Languages & Plateform </h2>
 <section align="center"><a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="60" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://www.cprogramming.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" width="40" height="40" padding="5px"/> </a>
