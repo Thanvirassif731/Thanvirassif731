@@ -2,11 +2,11 @@
  <head><meta name="viewport" content="width=device-width, initial-scale=1.0" /></head>
 <body>
 <image src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gifv">
- <h1 align="center"> 👋 Hi, I’m Thanvir Assif </h1> <br>
+<h1 align="center"> 👋 Hi, I’m Thanvir Assif 💞️</h1> <br>
 <h4 align="center">- 👀 Open to try and learn new ideas and skills! </h4>
 <h4 align="center">- 🌱 I’m currently learning AWS cloud computing, Web Development and DevOps.</h4>
 <h4 align="center">- 🤖 Interested in Machine Learning and Artificial Intelligence.</h4>
-<h4 align="center">- 💞️ I’m looking to collaborate on internships to develop my skills.</h4>
+<h4 align="center">- 🥂 Ready to collaborate on Freelancings and jobs.</h4>
 <h4 align="center">- 📫 How to reach me 📧 <b>thanvirassif731@gmail.com</b></h4><hr>
 <h2 align="center"> Languages & Plateform </h2>
 <section align="center"><a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="60" height="40"/> </a> &nbsp;&nbsp;
