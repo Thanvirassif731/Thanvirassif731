@@ -22,6 +22,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO-453x500.png" alt="linux" width="40" height="40"/> </a></section> <br> <hr>
 
 <section align="center"><h2>Follow my Social media pages here:</h2>
+        <a href="https://g.dev/thanvirassif731"><img src="https://www.gstatic.com/devrel-devsite/prod/v670576875a5cc9e38d1ef4dc0b1c46d2dc586275242dba27f9cea38af0674100/developers/images/lockup-new.svg" width="50" height="50"></a>
         <a href="https://in.linkedin.com/in/thanvir-assif-1b3435203"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width="50" height="50"></a>
         <a href="https://github.com/Thanvirassif731"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50" height="50"></a>
         <a href="https://www.instagram.com/iamassif317/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="50" height="50"></a>
