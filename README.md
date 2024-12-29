@@ -24,7 +24,7 @@
 <section align="center"><h2>Follow my Social media pages here:</h2>
         <a href="https://in.linkedin.com/in/thanvir-assif-1b3435203"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width="50" height="50"></a>
         <a href="https://github.com/Thanvirassif731"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50" height="50"></a>
-        <a href="https://g.dev/thanvirassif731"><img src="https://www.gstatic.com/devrel-devsite/prod/v670576875a5cc9e38d1ef4dc0b1c46d2dc586275242dba27f9cea38af0674100/developers/images/lockup-new.svg" width="100" height="50"></a>
+        <!--<a href="https://g.dev/thanvirassif731"><img src="https://www.gstatic.com/devrel-devsite/prod/v670576875a5cc9e38d1ef4dc0b1c46d2dc586275242dba27f9cea38af0674100/developers/images/lockup-new.svg" width="100" height="50"></a>/-->
         <a href="https://www.instagram.com/iamassif317/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="50" height="50"></a>
         <a href="https://twitter.com/iamassif317"><img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" width="50" height="50"></a></section><br><hr>
  
