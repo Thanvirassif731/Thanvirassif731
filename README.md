@@ -3,7 +3,7 @@
 # 👋 Hi, I’m Thanvir Assif 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Collabrate-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-orange?style=for-the-badge" />
 </p>
 
