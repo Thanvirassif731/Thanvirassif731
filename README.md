@@ -1,41 +1,52 @@
-<html>
- <head><meta name="viewport" content="width=device-width, initial-scale=1.0" /></head>
-<body>
-<image src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gifv">
-<h1 align="center"> 👋 Hi, I’m Thanvir Assif 💞️</h1> 
-<h4 align="center">- 👀 Open to try and learn new ideas and skills! </h4>
-<h4 align="center">- 🌱 I’m currently learning AWS cloud computing, Web Development and DevOps.</h4>
-<h4 align="center">- 🤖 Interested in Machine Learning and Artificial Intelligence.</h4>
-<h4 align="center">- 🥂 Ready to collaborate on Freelancings and jobs.</h4>
-<h4 align="center">- 📫 How to reach me 📧 <b>thanvirassif731@gmail.com</b></h4><hr>
-<h2 align="center"> Languages & Plateform </h2>
-<section align="center"><a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="60" height="40"/> </a> &nbsp;&nbsp;
-<!--<a href="https://www.cprogramming.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" width="40" height="40" padding="5px"/> </a>-->
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
-<!---<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> --->
-<a href="https://www.w3schools.com/html/" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="css3" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" alt="css3" width="40" height="40"/></a>
- <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="50" height="40"/></a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" width="40" height="40"/> </a> 
- <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React JS" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO-453x500.png" alt="linux" width="40" height="40"/> </a></section> <br> <hr>
-
-<section align="center"><h2>Follow my Social media pages here:</h2>
-        <a href="https://in.linkedin.com/in/thanvir-assif-1b3435203"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width="50" height="50"></a>
-        <a href="https://github.com/Thanvirassif731"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50" height="50"></a>
-        <!--<a href="https://g.dev/thanvirassif731"><img src="https://www.gstatic.com/devrel-devsite/prod/v670576875a5cc9e38d1ef4dc0b1c46d2dc586275242dba27f9cea38af0674100/developers/images/lockup-new.svg" width="100" height="50"></a>/-->
-        <a href="https://www.instagram.com/iamassif317/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="50" height="50"></a>
-        <a href="https://twitter.com/iamassif317"><img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" width="50" height="50"></a></section><br><hr>
- 
- <section align="center"><h2>Checkout my other activities...</h2><br>
-  <a href="https://www.freecodecamp.org/iamassif731" target="_blank" rel="noreferrer"><img src="https://d33wubrfki0l68.cloudfront.net/52edd2dfddbec5db22a65dba39951af8fa9bdff6/006f7/img/fcc_primary_large.svg" alt="Freecodecamp" width="200" height="20"></a>
-  <a href="https://www.hackerrank.com/thanvirassif123" target="_blank" rel="noreferrer"><img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="Hackerrank" width="200" height="20"></a></section><br>
 
 
-<!---
-Thanvirassif731/Thanvirassif731 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-</body>
-</html>
+# 👋 Hi, I’m Thanvir Assif 
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-orange?style=for-the-badge" />
+</p>
+
+### 💫 About Me
+- 🎓 **Current Focus:** Deepening my expertise in **AWS Cloud Architecture**, Full-stack **Web Development**, and **DevOps** automation.
+- 🤖 **Interests:** Exploring the intersection of **Machine Learning** and Cloud infrastructure.
+- 💼 **Collaboration:** I'm ready to contribute to open-source projects, freelance gigs, and full-time roles.
+- 📧 **Reach me at:** [thanvirassif731@gmail.com](mailto:thanvirassif731@gmail.com)
+
+---
+
+### 🚀 Tech Stack & Tools
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) |
+
+---
+
+### 📜 Certifications & Learning
+- 🏆 **FreeCodeCamp:** [Responsive Web Design / JavaScript Algorithms](https://www.freecodecamp.org/iamassif731)
+- 💻 **HackerRank:** [Problem Solving / Python Certified](https://www.hackerrank.com/thanvirassif123)
+- ☁️ **AWS:** Currently pursuing AWS Solutions Architect Associate / Cloud Practitioner.
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Thanvirassif731&show_icons=true&theme=radical" alt="Thanvir's GitHub stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanvirassif731&layout=compact&theme=radical" alt="Top Langs" height="170" />
+</p>
+
+---
+
+### 🌐 Connect with me
+<p align="left">
+<a href="https://in.linkedin.com/in/thanvir-assif-1b3435203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanvir-assif" height="30" width="40" /></a>
+<a href="https://twitter.com/iamassif317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamassif317" height="30" width="40" /></a>
+<a href="https://www.instagram.com/iamassif317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamassif317" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
