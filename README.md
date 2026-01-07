@@ -26,9 +26,9 @@
 ---
 
 ### 📜 Certifications & Learning
-- 🏆 **FreeCodeCamp:** [Responsive Web Design / JavaScript Algorithms](https://www.freecodecamp.org/iamassif731)
-- 💻 **HackerRank:** [Problem Solving / Python Certified](https://www.hackerrank.com/thanvirassif123)
-- ☁️ **AWS:** Currently pursuing AWS Solutions Architect Associate / Cloud Practitioner.
+- ☁️ **AWS:** AWS Cloud & AI Practitioner and Solutions Architect Associate.
+- ☁️ **GCP:** Google Certified Generative AI Leader.
+- ☁️ **Azure:** Cloud & AI Fundamentals Certified (AZ & AI - 900).
 
 ---
 
