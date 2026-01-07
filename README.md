@@ -11,7 +11,7 @@
 - 🎓 **Current Focus:** Deepening my expertise in **AWS Cloud Architecture**, Full-stack **Web Development**, and **DevOps** automation.
 - 🤖 **Interests:** Exploring the intersection of **Machine Learning** and Cloud infrastructure.
 - 💼 **Collaboration:** I'm ready to contribute to open-source projects, freelance gigs, and full-time roles.
-- 📧 **Reach me at:** [thanvirassif731@gmail.com](mailto:thanvirassif731@gmail.com)
+- 📧 **Reach me at:** [contact@thanvirassif.com](mailto:contact@thanvirassif.com)
 
 ---
 
