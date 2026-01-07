@@ -30,7 +30,7 @@
 - ☁️ **GCP:** Google Certified Generative AI Leader.
 - ☁️ **Azure:** Cloud & AI Fundamentals Certified (AZ & AI - 900).
 
----
+<!-- ---
 
 ### 📊 GitHub Stats
 <p align="left">
@@ -38,7 +38,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanvirassif731&layout=compact&theme=radical" alt="Top Langs" height="170" />
 </p>
 
----
+--- -->
 
 ### 🌐 Connect with me
 <p align="left">
